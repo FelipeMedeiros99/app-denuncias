@@ -36,7 +36,8 @@ button{
     box-shadow: 0 0 2px;
     border-radius: 25px;
     margin: 0 10px 0 10px;
-    background-color: #b3b3b3;
+    background-color: #00a4ff96;
+    /* background-color: #b3b3b3; */
 }
 
 button:hover{
@@ -121,3 +122,4 @@ ion-icon:hover{
 .senha{
     position: relative;
 }
+
