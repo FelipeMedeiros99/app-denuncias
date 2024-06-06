@@ -40,3 +40,7 @@ ion-icon{
     opacity: 90%;
     position: fixed;
 }
+
+#outro{
+    border-radius: 5px;
+}
